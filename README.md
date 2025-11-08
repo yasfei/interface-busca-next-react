@@ -23,3 +23,21 @@ O projeto foi desenvolvido com foco em **performance e experiência do usuário*
 - **OMDb API** – fornecimento dos dados de filmes  
 
 ---
+
+## 💡 Observação
+
+Projeto criado para fins de aprendizado e demonstração de integração com APIs públicas.
+Desenvolvido com atenção à clareza visual, organização de código e usabilidade.
+
+---
+
+## 🧠 Aprendizados
+
+- Durante o desenvolvimento, foram explorados conceitos de:
+- Consumo de APIs REST com fetch
+- Manipulação de estados em componentes React
+- Estruturação de estilos com Tailwind
+- Tratamento de erros e experiência do usuário
+
+---
+
